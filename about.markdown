@@ -3,16 +3,14 @@ layout: page
 title: About
 permalink: /about/
 ---
+Jing Zhang PhD
+Research Associate
+Diagnostic Imaging, The Hospital for Sick Children
+Neurosciences & Mental Health, SickKids Research Institute
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Visiting Scientist
+Defense Research and Development Canada (DRDC), Toronto Research Centre
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Email: [jzhangcad@gmail.com](jzhangcad@gmail.com)
+Publications: [Google Scholar](https://scholar.google.ca/citations?user=Gd_BDh4AAAAJ&hl=en)
+LinkedIn: [LinkedIn](https://ca.linkedin.com/in/jing-zhang-969226a0)
