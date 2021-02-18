@@ -4,11 +4,14 @@ title: About
 permalink: /about/
 ---
 Jing Zhang PhD
+
 Research Associate
+
 Diagnostic Imaging, The Hospital for Sick Children
 Neurosciences & Mental Health, SickKids Research Institute
 
 Visiting Scientist
+
 Defense Research and Development Canada (DRDC), Toronto Research Centre
 
 Email: [jzhangcad@gmail.com](jzhangcad@gmail.com)
